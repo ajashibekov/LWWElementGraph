@@ -8,7 +8,7 @@ any conflicts between them mathematically.
 
 This project covers such concepts like:
 - [CRDT](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type), specifically state-based
-- Strong eventual consistency
+- Strong [eventual consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
 - Commutativity/Associativity/Idempotency of operations
 
 I found this kind of data structures interesting, as implementing them requires a paradigm shift, as for such structures one can remove structural items 
